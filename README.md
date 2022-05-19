@@ -1,8 +1,14 @@
 # Hexagonal Arch app with Golang
 
-##
+## Setup
 
-Run the app:
+### Add modules
+
+```
+go mod init github.com/kaliayev-proton/banking-go-hex
+```
+
+### Run the app:
 
 ```
 go run main.go
