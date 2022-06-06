@@ -6,6 +6,14 @@
 
 ```
 go mod init github.com/kaliayev-proton/banking-go-hex
+
+```
+
+### Build
+
+```
+go build
+
 ```
 
 ### Run the app:
